@@ -2127,6 +2127,7 @@ button,
     flex-shrink: 1;
     width: 50%; }
   #banner .image {
+    float: right;
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
     -ms-flex-grow: 0;
@@ -2137,7 +2138,7 @@ button,
     flex-shrink: 0;
     display: block;
     margin: 0 0 2em 4em;
-    width: 50%; }
+    width: 50%;}
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
